@@ -732,12 +732,12 @@ body {
 .contact-container {
   display: flex;
   align-items: flex-start;
-  gap: 100px;
+  gap: 150px;
   background-color: #ebe7e7;
 }
 
 .aside-text {
-  margin-left: 90px;
+  margin-left: 150px;
   padding: 30px;
   width: 500px;
 }
@@ -772,7 +772,7 @@ body {
   font-size: 20px;
 }
 .input-container {
-  width: 32%;
+  width: 35%;
   height: 500px;
   background-color: #fcf8f8;
   margin-top: 40px;
